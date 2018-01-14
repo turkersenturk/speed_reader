@@ -5,7 +5,7 @@
       <p class="title is-3">
         Captain Reader
       </p>
-      <p class="subtitle is-5">Read faster! test</p>
+      <p class="subtitle is-5">Read faster!</p>
     </div>
   </div>
 </section>
