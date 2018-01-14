@@ -2,9 +2,10 @@
   <section class="hero">
   <div class="hero-body">
     <div class="container">
-      <h1 class="title">
+      <p class="title is-3">
         Captain Reader
-      </h1>
+      </p>
+      <p class="subtitle is-5">Read faster!</p>
     </div>
   </div>
 </section>
